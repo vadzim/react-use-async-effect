@@ -1,0 +1,30 @@
+{
+  "name": "react-use-async-effect",
+  "version": "1.0.0",
+  "description": "react's useEffect, but for async functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vadzim/react-use-async-effect.git"
+  },
+  "keywords": [
+    "react",
+    "useEffect",
+    "async"
+  ],
+  "author": "dev@vadzim.info",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vadzim/react-use-async-effect/issues"
+  },
+  "homepage": "https://github.com/vadzim/react-use-async-effect#readme",
+  "devDependencies": {
+    "react": "^16.8.5"
+  },
+  "peerDependencies": {
+    "react": "^16.8.5"
+  }
+}
